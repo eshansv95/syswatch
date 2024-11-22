@@ -1,5 +1,5 @@
 SysWatch CLI Tool
-
+---
 Introduction
 SysWatch is a lightweight and cross-platform command-line tool designed to provide detailed system information for macOS and Windows environments. Featuring color-coded outputs and customizable ASCII art, it ensures an enhanced user experience while delivering critical system insights such as CPU, GPU, memory, screen resolution, uptime, and more.
 
